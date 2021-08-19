@@ -1,3 +1,5 @@
 Welcome to git.
 
 My frist change.
+
+Change to fix bug2
