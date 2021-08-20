@@ -3,3 +3,4 @@ My First commit
 adding new line to pull from remote master to local master.
 
 Adding one more line
+added one more to check fetch and confilcts. 
